@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Wes Mags\Desktop\C++ Game Engine\RosyGameEngine\GEngine Core\src\maths\maths_func.h(10,18): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  GEngine Core.vcxproj -> C:\Users\Wes Mags\Desktop\C++ Game Engine\RosyGameEngine\bin\Debug\GEngine Core.exe
